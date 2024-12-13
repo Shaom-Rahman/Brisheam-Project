@@ -9,7 +9,7 @@ import { Icon } from "@iconify/react";
 const Login = () => {
   return (
     <>
-    <section className='Login px-2 '>
+    <section className='Login '>
         <div className="container">
             <div className="menuRow ">
                 <div className="mainText">

@@ -1,3 +1,6 @@
+.Login{
+    @apply px-2
+}
 .menuRow{
     @apply flex flex-col md:flex-row gap-[30px] md:gap-[80px]
 }
