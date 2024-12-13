@@ -61,7 +61,7 @@ form .input2{
      p-[16px] md:pt-[24px] pb-[18px] px-[110px] md:px-[265px]
 }
 .socialParts p{
-    @apply  font-Nunito font-normal text-center text-[20px] text-brandColor 
+    @apply relative font-Nunito font-normal text-center text-[20px] text-brandColor 
     pt-[44px] pb-[24px]
 }
 .socialParts p::before {
